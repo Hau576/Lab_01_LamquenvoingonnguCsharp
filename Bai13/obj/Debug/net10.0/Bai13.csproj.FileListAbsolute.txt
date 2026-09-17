@@ -1,0 +1,30 @@
+C:\Users\dell\OneDrive\Máy tính\Bai13\bin\Debug\net10.0\Bai13.exe
+C:\Users\dell\OneDrive\Máy tính\Bai13\bin\Debug\net10.0\Bai13.deps.json
+C:\Users\dell\OneDrive\Máy tính\Bai13\bin\Debug\net10.0\Bai13.runtimeconfig.json
+C:\Users\dell\OneDrive\Máy tính\Bai13\bin\Debug\net10.0\Bai13.dll
+C:\Users\dell\OneDrive\Máy tính\Bai13\bin\Debug\net10.0\Bai13.pdb
+C:\Users\dell\OneDrive\Máy tính\Bai13\obj\Debug\net10.0\Bai13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Máy tính\Bai13\obj\Debug\net10.0\Bai13.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Máy tính\Bai13\obj\Debug\net10.0\Bai13.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Máy tính\Bai13\obj\Debug\net10.0\Bai13.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Máy tính\Bai13\obj\Debug\net10.0\Bai13.dll
+C:\Users\dell\OneDrive\Máy tính\Bai13\obj\Debug\net10.0\refint\Bai13.dll
+C:\Users\dell\OneDrive\Máy tính\Bai13\obj\Debug\net10.0\Bai13.pdb
+C:\Users\dell\OneDrive\Máy tính\Bai13\obj\Debug\net10.0\Bai13.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Máy tính\Bai13\obj\Debug\net10.0\ref\Bai13.dll
+C:\Users\dell\OneDrive\Máy tính\Bai13\obj\Debug\net10.0\Bai13.csproj.Up2Date
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\bin\Debug\net10.0\Bai13.exe
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\bin\Debug\net10.0\Bai13.deps.json
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\bin\Debug\net10.0\Bai13.runtimeconfig.json
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\bin\Debug\net10.0\Bai13.dll
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\bin\Debug\net10.0\Bai13.pdb
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\obj\Debug\net10.0\Bai13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\obj\Debug\net10.0\Bai13.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\obj\Debug\net10.0\Bai13.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\obj\Debug\net10.0\Bai13.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\obj\Debug\net10.0\Bai13.dll
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\obj\Debug\net10.0\refint\Bai13.dll
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\obj\Debug\net10.0\Bai13.pdb
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\obj\Debug\net10.0\Bai13.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\obj\Debug\net10.0\ref\Bai13.dll
+C:\Users\dell\OneDrive\Máy tính\Lab01_Trần Trung Hậu_3124411087.zip\Bai13\obj\Debug\net10.0\Bai13.csproj.Up2Date
